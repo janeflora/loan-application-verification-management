@@ -1,0 +1,27 @@
+Project Overview
+This project is a loan application verification and management system. As the scenario goes there is a hackerank competition where students have to participate and create an application as for my application it is a loan application verification and management system. This application covers features such as monitoring the client applications, the number of clients that have applied, adding assets and products, removing, editing and managing loan application. All of this is facilitated in the dashboard also known as the home where the actions are carried out as per the admin and their criteria on the specific loan application approvals. The loan application verification and management is solely based on the admin portal or is solely made for the admin to carry out the needed tasks for the approval and managements of loans.
+Problem Statement
+The problem statement includes a hackerank competition which is conducted in which students and people participate and are required to create an application system developed in python using Object Oriented Programming paradigms and implementing design patterns. My problem statement is to create a loan application verification using the above. 
+In the current situation many individuals who usually want to apply for a loan have to go through so many time-consuming processes and are required to visit the banks regularly. If a particular type of loan is not offered by a bank they have to keep traveling and visiting other banks until they find what is convenient for them. It is a tiring task and takes up a lot of energy, especially for those who are older or travelling long distances or are busy. From the admin’s point of view, it becomes a hard work to go through all the documents sometimes missing out on points that are required and clearing criteria to give loans. It also becomes hard for the admin or the bank staff to a number of people’s documents and is time consuming
+Problem solution
+To this problem statement I have created an application that allows the user that is the admin to facilitate tasks of monitoring and going through documents much easier. It allows the admin to save tie from going through physical by just looking at client details that have been submitted and online to the criteria can be met and loans can be given out to those who need them.
+Software Requirement
+	IDE: For this I have used Anaconda in which I have launched visual studio
+	Python 3.9 is the language in which I have coded
+	The basic OS needed is windows 10
+	And the final project has been uploaded onto GitHub. 
+modules
+Home – for the admin to monitor and make changes
+
+Admin module to login and verify, update.
+
+Loan module to see recent loan and borrower
+execution:
+in vs code run the following codes:
+python -m/venv ./venv
+cd venv/scripts
+activate.bat
+cd..
+cd..
+pip install -r requirements.txt
+python manage.py runserver
